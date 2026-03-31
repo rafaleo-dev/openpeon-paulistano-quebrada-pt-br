@@ -1,0 +1,159 @@
+{
+  "cesp_version": "1.0",
+  "name": "sp_quebrada_peasant_pt-br",
+  "display_name": "SP de quebrada (PT-BR)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rafael Leonardo",
+    "github": "rafaelleonardocruz"
+  },
+  "license": "MIT",
+  "language": "pt-BR",
+  "description": "Um paulistano da quebrada, português brasileiro.",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/greetings1.mp3",
+          "label": "Salve quebrada, firmão?",
+          "sha256": "b57d36eba4f85392be72162f30ad4ccf3842adbb2fbdc167db8b12c65e2cb4cd"
+        },
+        {
+          "file": "sounds/greetings2.mp3",
+          "label": "Salve! firmeza?",
+          "sha256": "be2e96a9979c0639054caae9fde38a61c6ce111e2783a5ba2285ba9b1ed7a160"
+        },
+        {
+          "file": "sounds/greetings3.mp3",
+          "label": "Eae cachorro, qual a do bagulho?",
+          "sha256": "2c79b67beca1e2cfce4b6fec48fe50dd636bde1d1078e9dbcf49097a4902e440"
+        },
+        {
+          "file": "sounds/greetings4.mp3",
+          "label": "Qual que é a fita mano? bora desenrolar isso daê",
+          "sha256": "cc4bd7b4dd290611714bb593b553d127272d373b064fa4e75b27f8abaf4fdab8"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/ack1.mp3",
+          "label": "demorou, já to vendo isso dae!",
+          "sha256": "0894f45bf3a7ed1181df7b4324980b850478496902ef162114502135afc0085e"
+        },
+        {
+          "file": "sounds/ack2.mp3",
+          "label": "Peguei a visão",
+          "sha256": "bf535d7fd9c2175daa5c49fbc253d6c71464737b246a457758d732c14656527d"
+        },
+        {
+          "file": "sounds/ack3.mp3",
+          "label": "firmão, já to desenrolando do bagulho",
+          "sha256": "00a9c9992749fa815d4462600c7d9f561a1a3291f6c3e557c77ae5ed6af22527"
+        },
+        {
+          "file": "sounds/ack4.mp3",
+          "label": "Já é, deixa comigo",
+          "sha256": "2f413e7fdb0983cd1dcea823985f4f9e76a4290b7cb8ecc0368a5a4dcf64a84f"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/done1.mp3",
+          "label": "Pronto mano, tá feito!",
+          "sha256": "edf6a1fadf23f9059b505e1a8a33a626ea41626b57705f25023ecf2c0ce64021"
+        },
+        {
+          "file": "sounds/done2.mp3",
+          "label": "certinho mano, tá pronto no bagulho!",
+          "sha256": "64759955406ce9534ebf3a509ca21b87a1e5a93b6e364d303a95d24d02e57ce3"
+        },
+        {
+          "file": "sounds/done3.mp3",
+          "label": "já é, qual a próxima?",
+          "sha256": "9f6baa6013ab7c3bd679169081fb072efe69015f34734ea833d68fd401669af5"
+        },
+        {
+          "file": "sounds/done4.mp3",
+          "label": "Ae meu truta, tá feito!",
+          "sha256": "67923457caaa338f28bb86f38444cf98a350d7a796d7c863378e7bd14ddea2b9"
+        },
+        {
+          "file": "sounds/done5.mp3",
+          "label": "Salve cachorro, terminei!",
+          "sha256": "c8ff7e9cf85fdaca9ca90ce27a5be313a60f0fe1c08de240357862013653341c"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/erro1.mp3",
+          "label": "I, deu ruim!",
+          "sha256": "34d775a405ac63d9009534e962c1500a0e1ce640c3d6670eb891755aff245588"
+        },
+        {
+          "file": "sounds/erro2.mp3",
+          "label": "caraio, fudeu!",
+          "sha256": "88521fba654f1a1b99c05af76b8f00b2db4d9e19b65d6416009349aecdcee30e"
+        },
+        {
+          "file": "sounds/erro3.mp3",
+          "label": "ae leonidas, essas treta que cê arruma é foda!",
+          "sha256": "c63e903c5a43ff6862bc9d9433a7678d10f8ec945ccdf24e1f3e6cb1933c56bc"
+        },
+        {
+          "file": "sounds/erro4.mp3",
+          "label": "deu zica aqui mano",
+          "sha256": "e0dd00029987e907d5e87c0b7630d2a57710c01127caa9e95cc5221512b30026"
+        },
+        {
+          "file": "sounds/erro5.mp3",
+          "label": "Moiô, deu zica no bagulho!",
+          "sha256": "2ce88598471355ad09d360aa4f0652dd86303fe96fdf18902ae2cdadd09bfa7c"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input1.mp3",
+          "label": "O, preciso de você aqui rapidão",
+          "sha256": "b54ea3cdcfd87e1b23a4111e94054acc2b864807395a3a1ac0b3d7a531181fb2"
+        },
+        {
+          "file": "sounds/input2.mp3",
+          "label": "Eai, como você quer fazer?",
+          "sha256": "c51d049e97ab7137c2bdf39f744cf28711c3056758ee785a17caf346702c907a"
+        },
+        {
+          "file": "sounds/input3.mp3",
+          "label": "Salve cachorro, da uma atenção aqui",
+          "sha256": "b836bc1c65b116dcbeb99f55b3f84d6c724556aa5e5ed633b91eefe4ef993e62"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/limit1.mp3",
+          "label": "xi, estourou do bagulho!",
+          "sha256": "eedf0666f8a2f62b868c227e53ad164741928fbeb48aa643cee6fc9011bfd906"
+        },
+        {
+          "file": "sounds/limit2.mp3",
+          "label": "caneta caiu cachorro, só amanhã agora!",
+          "sha256": "e453a4b1a4a0400e1b7c2f314acbb0dd2b61464c10289c4527e1394db43f338b"
+        },
+        {
+          "file": "sounds/limit3.mp3",
+          "label": "Vai da não, na volta a gente compra!",
+          "sha256": "64e1be7d27913229aa5825320f353eaeba64af3b1f016c6f175ffc3a709675d0"
+        }
+      ]
+    }
+  }
+}
